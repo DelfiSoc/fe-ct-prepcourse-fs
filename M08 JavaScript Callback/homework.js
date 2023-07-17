@@ -42,6 +42,7 @@ function sumarArray(arrayOfNumbers, cb) {
    // [NOTA]: no debes reotrnar nada.
    // Tu código:
 
+   //inicializo la variable suma
    let suma = 0;
 
    for(let i = 0; i < arrayOfNumbers.length; i++){
